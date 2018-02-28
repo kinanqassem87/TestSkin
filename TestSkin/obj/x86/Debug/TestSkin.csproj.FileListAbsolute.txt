@@ -1,0 +1,6 @@
+C:\Users\kinan\documents\visual studio 2010\Projects\TestSkin\TestSkin\bin\Debug\TestSkin.exe
+C:\Users\kinan\documents\visual studio 2010\Projects\TestSkin\TestSkin\bin\Debug\TestSkin.pdb
+C:\Users\kinan\documents\visual studio 2010\Projects\TestSkin\TestSkin\obj\x86\Debug\TestSkin.Properties.Resources.resources
+C:\Users\kinan\documents\visual studio 2010\Projects\TestSkin\TestSkin\obj\x86\Debug\TestSkin.csproj.GenerateResource.Cache
+C:\Users\kinan\documents\visual studio 2010\Projects\TestSkin\TestSkin\obj\x86\Debug\TestSkin.exe
+C:\Users\kinan\documents\visual studio 2010\Projects\TestSkin\TestSkin\obj\x86\Debug\TestSkin.pdb
